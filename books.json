@@ -1,0 +1,18 @@
+[
+  {
+    "book_id": "100",
+    "name": "The Secret",
+    "author": "Rhonda Byrne",
+    "rating": "4.5",
+    "price": "250",
+    "image": "https://i.imgur.com/5bGzZi7.jpg"
+  },
+  {
+    "book_id": "101",
+    "name": "Atomic Habits",
+    "author": "James Clear",
+    "rating": "4.8",
+    "price": "399",
+    "image": "https://i.imgur.com/HO4jVbG.jpg"
+  }
+]
