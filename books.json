@@ -1,18 +1,45 @@
-[
-  {
-    "book_id": "100",
-    "name": "The Secret",
-    "author": "Rhonda Byrne",
-    "rating": "4.5",
-    "price": "250",
-    "image": "https://i.imgur.com/5bGzZi7.jpg"
-  },
-  {
-    "book_id": "101",
-    "name": "Atomic Habits",
-    "author": "James Clear",
-    "rating": "4.8",
-    "price": "399",
-    "image": "https://i.imgur.com/HO4jVbG.jpg"
-  }
-]
+{
+  "success": true,
+  "data": [
+    {
+      "book_id": "101",
+      "name": "P.S. I Love You",
+      "author": "Cecelia Ahern",
+      "rating": "4.5",
+      "price": "Rs. 350",
+      "image": "https://i.imgur.com/DvpvklR.png"
+    },
+    {
+      "book_id": "102",
+      "name": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "rating": "4.2",
+      "price": "Rs. 299",
+      "image": "https://i.imgur.com/DvpvklR.png"
+    },
+    {
+      "book_id": "103",
+      "name": "Anna Karenina",
+      "author": "Leo Tolstoy",
+      "rating": "4.3",
+      "price": "Rs. 199",
+      "image": "https://i.imgur.com/DvpvklR.png"
+    },
+    {
+      "book_id": "104",
+      "name": "War and Peace",
+      "author": "Leo Tolstoy",
+      "rating": "4.5",
+      "price": "Rs. 249",
+      "image": "https://i.imgur.com/DvpvklR.png"
+    },
+    {
+      "book_id": "105",
+      "name": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "rating": "4.8",
+      "price": "Rs. 749",
+      "image": "https://i.imgur.com/DvpvklR.png"
+    }
+  ]
+}
