@@ -6,7 +6,7 @@
       "name": "P.S. I Love You",
       "author": "Cecelia Ahern",
       "price": "Rs. 999",
-      "rating": 4.5,
+      "rating": 5.0,
       "image": "https://i.ibb.co/CKmCHYGk/ps-ily.jpg"
     },
     {
@@ -22,7 +22,7 @@
       "name": "Anna Karenina",
       "author": "Leo Tolstoy",
       "price": "Rs. 199",
-      "rating": 3.9,
+      "rating": 4.3,
       "image": "https://i.ibb.co/bjMPPLDf/anna-kare.jpg"
     },
     {
@@ -30,16 +30,16 @@
       "name": "Madame Bovary",
       "author": "Gustave Flaubert",
       "price": "Rs. 500",
-      "rating": 4,
-      "image": "https://i.imgur.com/5K1V5Lh.jpg"
+      "rating": 4.0,
+      "image": "https://i.ibb.co/vC3HD7hv/madame.jpg"
     },
     {
       "book_id": 105,
       "name": "War and Peace",
       "author": "Leo Tolstoy",
       "price": "Rs. 299",
-      "rating": 3.9,
-      "image": "https://i.imgur.com/J9qKw3M.jpg"
+      "rating": 4.5,
+      "image": "https://i.ibb.co/GvWvYVhY/war-and-peace.jpg"
     },
     {
       "book_id": 106,
@@ -47,7 +47,7 @@
       "author": "Vladimir Nabokov",
       "price": "Rs. 349",
       "rating": 3.9,
-      "image": "https://i.imgur.com/wGJXhLx.jpg"
+      "image": "https://i.ibb.co/yFmbJQsK/lolita.jpg"
     },
     {
       "book_id": 107,
@@ -55,15 +55,15 @@
       "author": "George Eliot",
       "price": "Rs. 599",
       "rating": 4.2,
-      "image": "https://i.imgur.com/Ti9OhdJ.jpg"
+      "image": "https://i.ibb.co/ymQpgT6v/middlemarch.jpg"
     },
     {
       "book_id": 108,
       "name": "The Adventures of Huckleberry Finn",
       "author": "Mark Twain",
       "price": "Rs. 699",
-      "rating": 4.5,
-      "image": "https://i.imgur.com/pFTDf5h.jpg"
+      "rating": 4.7,
+      "image": "https://i.ibb.co/5xc8kp5v/adventures-finn.jpg"
     },
     {
       "book_id": 109,
@@ -71,15 +71,15 @@
       "author": "Herman Melville",
       "price": "Rs. 499",
       "rating": 4.5,
-      "image": "https://i.imgur.com/7SpWKyJ.jpg"
+      "image": "https://i.ibb.co/HDSmLXkP/moby-dick.jpg"
     },
     {
       "book_id": 110,
       "name": "The Lord of the Rings",
       "author": "J.R.R. Tolkien",
       "price": "Rs. 749",
-      "rating": 5,
-      "image": "https://i.imgur.com/6ft4FFL.jpg"
+      "rating": 4.8,
+      "image": "https://i.ibb.co/QF6vsbf5/lord-of-rings.jpg"
     }
   ]
 }
